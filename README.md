@@ -3,7 +3,7 @@
 - Sorveteria;
 - Captura Tempo;
 
-### Tecnologias:
+### 💻 Tecnologias:
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=plastic&logo=git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white)
